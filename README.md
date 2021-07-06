@@ -1,11 +1,10 @@
 ###  Olá, bem-vind@s ao meu Perfil! :octocat: 🇧🇷
 
+#
 
 Sou formado em Segurança da Informação, com foco em Infra e Migrando para Dev (DevSecOps)
 
 O que você encontrará aqui:
-
-# 
 
 - ***Repositórios de Estudos***
  
@@ -16,6 +15,8 @@ O que você encontrará aqui:
   - Golang
 
     - Estudos para uma nova linguagem de programação.
+
+#
 
 <!--
 **amaralariel/amaralariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
