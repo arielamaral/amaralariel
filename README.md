@@ -2,21 +2,11 @@
 
 #
 
-Sou formado em Segurança da Informação, com foco em Infra e Migrando para Dev (DevSecOps)
+🧑🏿‍💻 Sou formado e pós graduado em Segurança da Informação, com foco em Infra e Migrando para Dev (DevSecOps)
 
-O que você encontrará aqui:
+- Atualmente sou Analista de Segurança da Informação, trabalhando na divisão de IAM 🔑 (Gestão de Acessos)
 
-- ***Repositórios de Estudos***
- 
-  - Python :snake:
-
-    - Projetos em Python com foco em Automações.
-  
-  - Golang
-
-    - Estudos para uma nova linguagem de programação.
-
-#
+Apaixonado por Jogos: 🎮, Tecnologia: 👨🏿‍💻 e conhecendo o mundo Cripto: ₿ 
 
 <!--
 **amaralariel/amaralariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
