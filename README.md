@@ -6,13 +6,12 @@
 
 - Atualmente sou Analista de Segurança da Informação, trabalhando na divisão de IAM 🔑 (Gestão de Acessos)
 
-Apaixonado por Jogos: 🎮, Tecnologia: 👨🏿‍💻 e conhecendo o mundo Cripto: ₿ 
+Apaixonado por Jogos: 🎮, Tecnologia: 👨🏿‍💻 e Seguranca
 
 ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 
 </div>
 
