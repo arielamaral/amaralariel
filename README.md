@@ -1,5 +1,13 @@
-# 💫 About Me:
-Olá!<br>Sejam bem-vind@s ao meu perfil.<br><br>Sou um entusiasta por tecnologia, mundo nerd/geek. <br><br>Apaixonado por explorar novas tecnologias e aprender sobre os avanços mais recentes no mundo tech. <br><br>Minha paixão por tecnologia me levou a me interessar cada vez mais por projetos OpenSource, Segurança e Infraestutura como código.<br><br>Sou graduado em Técnologo de Segurança Informação e tenho um MBA em Cybersegurança.<br><br>Atualmente, estou cursando uma POS Tech em Arquitetura de Software, com o objetivo de expandir minha compreensão sobre a construção de sistemas escaláveis e robustos.
+# 💫 Sobre Mim
+Olá! 👋 Seja bem-vind@ ao meu perfil!
+
+Sou um entusiasta fervoroso da tecnologia e um devoto do mundo nerd/geek. Estou constantemente imerso na busca por novas tecnologias e absorvendo os avanços mais recentes no universo tech.
+
+Minha jornada acadêmica é marcada por uma graduação em Técnologia de Segurança da Informação e um MBA em Cybersegurança, os quais solidificaram minha base na área. No entanto, minha verdadeira paixão reside na exploração de projetos Open Source, bem como na aplicação de conceitos de Segurança e Infraestrutura como código.
+
+Embora minha formação em uma POS Tech em Arquitetura de Software tenha sido interrompida, essa experiência me proporcionou valiosos insights e conhecimentos na construção de sistemas escaláveis e robustos.
+
+Sinta-se à vontade para explorar meus projetos e contribuições! Estou sempre aberto a trocar ideias e conhecimentos, então não hesite em entrar em contato. ✨
 
 
 ## 🌐 Socials:
